@@ -1,0 +1,11 @@
+commit 3e656e104e1a52ca3cfb0ba23904fd9e3a1f5457
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Thu Jan 21 13:56:24 2021 -0500
+
+    bug fix: horse flickers when loaded after model (#1859)
+    
+    * add comment
+    
+    * force a name for materials
+    
+    * move naming outside of material and to UI
